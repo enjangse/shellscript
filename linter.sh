@@ -6,7 +6,7 @@
 ############################################ 
 ##set -e
 
-
+WOWWOWO
 GometalinterVariable=("aligncheck"
 		      "deadcode" 
                       "dupl" 
