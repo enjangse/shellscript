@@ -6,7 +6,8 @@
 ############################################ 
 ##set -e
 
-WOWWOWO
+KKKKKKKK
+LINTER BERuBAH lagi
 GometalinterVariable=("aligncheck"
 		      "deadcode" 
                       "dupl" 
