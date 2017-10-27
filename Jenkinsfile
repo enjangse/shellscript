@@ -7,11 +7,5 @@ pipeline {
         sh 'echo "sampai sini"'
       }
     }
-    stage('stage 2') {
-      steps {
-        sh '''echo 
-"apa apa"'''
-      }
-    }
   }
 }
